@@ -1,0 +1,6 @@
+numpy
+pandas
+streamlit
+altair
+plotly_express
+unidecode
